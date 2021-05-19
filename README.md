@@ -28,5 +28,7 @@ Everythng is dynamically built.
 ## Useful Links
 
 [Viewport](https://www.javascripttutorial.net/dom/css/check-if-an-element-is-visible-in-the-viewport/)
+
 [childNodes Property](https://www.w3schools.com/jsref/prop_node_childnodes.asp)
+
 [ScrollIntoView](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView)
