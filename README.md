@@ -11,6 +11,8 @@
 
 This project is a conversion of a static version of the Landing Page to a dynamic version, based on the Udacity Course for the FrontEnd Nanodegree. 
 
+The project is written in JavaScript with HTML and CSS for styling and page content.
+
 ## Description
 
 This project provides a navigation bar that is built dynamically based on the available sections in the page. An unordered list is constructed based on the available sections.
