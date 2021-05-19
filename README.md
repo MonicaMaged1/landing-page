@@ -2,12 +2,31 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* [Introduction](#introduction)
+* [Description](#description)
+* [Features](#features)
+* [Useful Links](#usefulLinks)
 
-## Instructions
+## Introduction
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+This project is a conversion of a static version of the Landing Page to a dynamic version, based on the Udacity Course for the FrontEnd Nanodegree. 
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Description
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+This project provides a navigation bar that is built dynamically based on the available sections in the page. An unordered list is constructed based on the available sections.
+
+It clearly marks the section that is active right now with the added functionality of highlighting the active section in the navigation bar as well.
+
+When clicking an item from the navigation menu, the link scrolls to the desired section.
+
+## Features
+
+It works across all modern desktops and phone browsers.
+
+Everythng is dynamically built.
+
+## Useful Links
+
+[Viewport](https://www.javascripttutorial.net/dom/css/check-if-an-element-is-visible-in-the-viewport/)
+[childNodes Property](https://www.w3schools.com/jsref/prop_node_childnodes.asp)
+[ScrollIntoView](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView)
